@@ -18,14 +18,14 @@ Características
 
 -   **Grupo:** Acceso a Justicia
 
--   **Frecuencia de Actualización:** Eventual
+-   **Frecuencia de Actualización:** Cada medio año
 
 Recursos disponibles
 --------------------
 
-### Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ- AAAA-MM
+### Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ- AAAA semestre
 
--   **Nombre del archivo:** consultas-centros-acceso-justicia-AAAA-MM.csv
+-   **Nombre del archivo:** consultas-centros-acceso-justicia-AAAA-semetre.csv
 
 -   **Descripción del contenido:** consultas realizadas en los Centros de Acceso a la Justicia que cuentan con sistema de gestión informático
 
@@ -49,7 +49,7 @@ Recursos disponibles
 
 -   **subtemas_texto (string):** descricpión del subtema de la consulta
 
--   **area (string):** área que canalizó la consulta
+-   **naturaleza_consulta (string):** área que canalizó la consulta
 
 -   **estado_consulta (string):** estado de la consulta
 
@@ -69,7 +69,7 @@ Recursos disponibles
 
 -   **pais_consultante (string):** país de nacimiento del consultante
 
--   **provincia_consultante (string):** provincia del consultante
+-   **provincia_consultante (string):** provincia de residencia del consultante
 
 -   **id_intervencion (int):** código de la intervención
 
@@ -87,6 +87,6 @@ Recursos disponibles
 
 ### Notas
 
-La base de datos contiene información de las consultas en los CAJ que tienen sistema de gestión informático, cuya implementación comenzó progresivamente desde mediados de julio de 2016.
+La base de datos contiene información de las consultas en los CAJ que tienen cuentan con sistema de gestión informático, cuya implementación comenzó progresivamente desde mediados de julio de 2016.
 
-Una consulta en un CAJ puede derivar en más de una intervención. De la misma forma, cada intervención puede generar varias gestiones.
+El recorte de la información se realiza en base a la fecha de carga de la “consulta” en el CAJ. Una consulta en un CAJ puede derivar en más de una intervención. De la misma forma, cada intervención puede generar varias gestiones. No obstante, es posible que en el período que se presenta haya más gestiones e intervenciones que las publicadas, debido a que corresponden a “consultas” con carga anterior al período en cuestión.
