@@ -37,13 +37,15 @@ Recursos disponibles
 
 -   **id_consulta (int):** código de la consulta
 
--   **fecha_carga (date):** fecha de la carga de la consulta en el sistema informático
+-   **fecha_carga_consulta (date):** fecha de la carga de la consulta en el sistema informático
+
+-   **hora_carga_consulta (date):** hora de la carga de la consulta en el sistema informático
 
 -   **dependencia_id (int):** código del CAJ donde se realizó la consulta
 
--   **tipo_resolucion (string):** forma de resolución de la consulta
-
 -   **dependencia (string):** nombre del CAJ donde se realizó la consulta
+
+-   **tipo_resolucion (string):** forma de resolución de la consulta
 
 -   **tema (string):** descricpión del tema de la consulta
 
@@ -79,9 +81,13 @@ Recursos disponibles
 
 -   **fecha_carga_intervencion (date):** fecha de la carga de la intervención
 
+-   **hora_carga_intervencion (date):** hora en la que se cargó la intervención
+
 -   **id_gestion (int):** código de la gestión
 
 -   **fecha_carga_gestion (date):** fecha de la carga de la gestion
+
+-   **hora_carga_gestion (date):** hora de la carga de la gestion
 
 -   **tipo_gestion (string):** tipo de gestión
 
