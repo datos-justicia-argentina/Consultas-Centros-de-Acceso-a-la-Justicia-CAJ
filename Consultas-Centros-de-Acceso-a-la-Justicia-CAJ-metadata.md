@@ -35,61 +35,57 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **id_consulta (int):** código de la consulta
+-   **consulta_id (int):** identificador único de la consulta
 
--   **fecha_carga_consulta (date):** fecha de la carga de la consulta en el sistema informático
+-   **consulta_fecha_carga (date):** fecha y hora de la carga de la consulta en el sistema informático
 
--   **hora_carga_consulta (date):** hora de la carga de la consulta en el sistema informático
+-   **dependencia_id (int):** identificador único de la dependencia
 
--   **dependencia_id (int):** código del CAJ donde se realizó la consulta
+-   **dependencia_descripcion (string):** nombre del CAJ donde se realizó la consulta
 
--   **dependencia (string):** nombre del CAJ donde se realizó la consulta
-
--   **tipo_resolucion (string):** forma de resolución de la consulta
+-   **resolucion_tipo (string):** forma de resolución de la consulta. Toma los valores "INTERNA" y "EXTERNA"
 
 -   **tema (string):** descricpión del tema de la consulta
 
--   **subtemas_texto (string):** descricpión del subtema de la consulta
+-   **subtemas (string):** descricpión del o los subtemas de la consulta
 
--   **naturaleza_consulta (string):** área que canalizó la consulta
+-   **consulta_tipo (string):** tipo de consulta. Se relaciona con el área del CAJ que la canalizó
 
--   **estado_consulta (string):** estado de la consulta
+-   **consulta_estado (string):** estado de la consulta. Toma los valores "Finalizada", "Derivada a otro CAJ", "En Trámite"
 
--   **persona_id (int):** código del consultante
+-   **consultante_id (int):** identificador único del consultnte
 
--   **actividad_principal_consultante (string):** actividad principal del consultante
+-   **consultante_actividad_principal (string):** actividad principal del consultante
 
--   **como_llego_consultante (string):** forma en la que el consultante se enteró del CAJ
+-   **consultante_como_llego (string):** forma en la que el consultante se enteró de la existencia o los servicios que prestaba el CAJ
 
--   **fecha_nacimiento_consultante (date):** fecha de nacimiento del consultante
+-   **consultante_fecha_nacimiento (date):** fecha de nacimiento del consultante
 
--   **genero_consultante (string):** género del consultante
+-   **consultante_genero (string):** género del consultante
 
--   **nivel_de_instruccion_consultante (string):** máximo nivel de instrucción alcanzado por el consultante
+-   **consultante_nivel_instruccion (string):** máximo nivel de instrucción alcanzado por el consultante
 
--   **atencion_salud_consultante (string):** tipo de cobertura de salud del consultante
+-   **consultante_atencion_salud (string):** tipo de cobertura de salud del consultante
 
--   **pais_consultante (string):** país de nacimiento del consultante
+-   **consultante_pais (string):** país de nacimiento del consultante
 
--   **provincia_consultante (string):** provincia de residencia del consultante
+-   **consultante_provincia (string):** provincia de residencia del consultante
 
--   **id_intervencion (int):** código de la intervención
+-   **intervencion_id (int):** identificador único de la intervención
 
--   **tipo_intervencion (string):** descripción de la intervención
+-   **intervencion_tipo (string):** descripción del de intervención realizada
 
--   **etapa_intervencion (string):** estado de la intervención
+-   **intervencion_estado (string):** estado de la intervención
 
--   **fecha_carga_intervencion (date):** fecha de la carga de la intervención
+-   **intervencion_fecha_carga (date):** fecha y hora de la carga de la intervención
 
--   **hora_carga_intervencion (date):** hora en la que se cargó la intervención
+-   **gestion_id (int):** identificador único de la gestión
 
--   **id_gestion (int):** código de la gestión
-
--   **fecha_carga_gestion (date):** fecha de la carga de la gestion
+-   **gestion_fecha_carga (date):** fecha y hora de de la carga de la gestion
 
 -   **hora_carga_gestion (date):** hora de la carga de la gestion
 
--   **tipo_gestion (string):** tipo de gestión
+-   **gestion_tipo (string):** tipo de gestión
 
 ### Notas
 
