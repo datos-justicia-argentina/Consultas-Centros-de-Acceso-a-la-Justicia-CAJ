@@ -53,7 +53,7 @@ Recursos disponibles
 
 -   **consulta_estado (string):** estado de la consulta. Toma los valores "Finalizada", "Derivada a otro CAJ", "En Trámite"
 
--   **consultante_id (int):** identificador único del consultnte
+-   **consultante_id (int):** identificador único del consultante
 
 -   **consultante_actividad_principal (string):** actividad principal del consultante
 
