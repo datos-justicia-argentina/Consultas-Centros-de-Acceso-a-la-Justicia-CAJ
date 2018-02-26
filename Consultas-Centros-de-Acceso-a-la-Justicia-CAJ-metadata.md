@@ -3,12 +3,14 @@ Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ-
 
 Este conjunto de datos contiene información relacionada a las consultas efectuadas en los Centros de Acceso a la Justicia –CAJ- que cuentan con sistema de gestión informático.
 
+http://datos.jus.gob.ar/dataset/consultas-efectuadas-en-los-centros-de-acceso-a-la-justicia
+
 Características
 ---------------
 
 -   **Fecha de Primera Publicación:** 28/06/2017
 
--   **Tags o Etiquetas:** CAJ, acceso a justicia, acceso a la justicia, asesoramiento jurídico, casas de justicia, justicia, vulnerable, consultas
+-   **Tags o Etiquetas:** CAJ, acceso a justicia, acceso a la justicia, asesoramiento jurídico, casas de justicia, justicia, vulnerables, consultas
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia
 
@@ -27,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** consultas-centros-acceso-justicia-AAAA-semetre.csv
 
--   **Descripción del contenido:** consultas realizadas en los Centros de Acceso a la Justicia que cuentan con sistema de gestión informático
+-   **Descripción del contenido:** detalle de las consultas realizadas en los Centros de Acceso a la Justicia que cuentan con sistema de gestión informático
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
