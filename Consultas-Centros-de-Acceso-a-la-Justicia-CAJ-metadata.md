@@ -33,7 +33,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** consultas efectuadas en los CAJ desde julio de 2016 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -94,3 +94,5 @@ Recursos disponibles
 La base de datos contiene información de las consultas en los CAJ que tienen cuentan con sistema de gestión informático, cuya implementación comenzó progresivamente desde mediados de julio de 2016.
 
 El recorte de la información se realiza en base a la fecha de carga de la “consulta” en el CAJ. Una consulta en un CAJ puede derivar en más de una intervención. De la misma forma, cada intervención puede generar varias gestiones. No obstante, es posible que en el período que se presenta haya más gestiones e intervenciones que las publicadas, debido a que corresponden a “consultas” con carga anterior al período en cuestión.
+
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 482 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2017-482-APN-MJ.pdf), del 26 de Junio de 2017.
