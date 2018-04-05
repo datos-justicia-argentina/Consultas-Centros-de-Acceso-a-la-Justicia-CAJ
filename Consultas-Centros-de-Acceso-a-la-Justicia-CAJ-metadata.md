@@ -89,6 +89,14 @@ Recursos disponibles
 
 -   **gestion_tipo (string):** tipo de gestión
 
+### Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ- AAAA
+
+-   **Nombre:** consultas-centros-acceso-justicia-AAAA.zip
+
+-   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+
+-   **Formato:** ZIP
+
 ### Notas
 
 La base de datos contiene información de las consultas en los CAJ que tienen cuentan con sistema de gestión informático, cuya implementación comenzó progresivamente desde mediados de julio de 2016.
