@@ -89,6 +89,10 @@ Recursos disponibles
 
 -   **gestion_tipo (string):** tipo de gestión
 
+-   **consultante_pais_indec_id (string):** código de país donde está situado el CAJ, según la codificación de provincia implementada por INDEC
+
+-   **consultante_provincia_indec_id (string):** código de provincia donde está situado el CAJ, según la codificación de provincia implementada por INDEC
+
 ### Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ- AAAA
 
 -   **Nombre:** consultas-centros-acceso-justicia-AAAA.zip
