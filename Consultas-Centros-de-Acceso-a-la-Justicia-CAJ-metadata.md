@@ -85,8 +85,6 @@ Recursos disponibles
 
 -   **gestion_fecha_carga (date):** fecha y hora de de la carga de la gestion
 
--   **hora_carga_gestion (date):** hora de la carga de la gestion
-
 -   **gestion_tipo (string):** tipo de gestión
 
 -   **consultante_pais_indec_id (string):** código de país donde está situado el CAJ, según la codificación de provincia implementada por INDEC
