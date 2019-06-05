@@ -89,7 +89,7 @@ Recursos disponibles
 
 -   **consultante_pais_indec_id (string):** código de país donde está situado el CAJ, según la codificación de provincia implementada por INDEC
 
--   **consultante_provincia_indec_id (string):** código de provincia donde está situado el CAJ, según la codificación de provincia implementada por INDEC
+-   **consultante_provincia_id (string):** código de provincia donde está situado el CAJ, según la codificación de provincia implementada por INDEC (hasta 05/2019 nombre campo consultante_provincia_indec_id)
 
 ### Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ- AAAA
 
