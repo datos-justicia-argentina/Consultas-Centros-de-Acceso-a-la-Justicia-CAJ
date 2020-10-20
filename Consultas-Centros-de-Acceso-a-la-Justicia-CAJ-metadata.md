@@ -29,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** consultas-centros-acceso-justicia-AAAA-semetre-9.csv
 
--   **Descripción del contenido:** detalle de las consultas realizadas en los Centros de Acceso a la Justicia que cuentan con sistema de gestión informático correspondientes al semestre 9 del año AAAA.
+-   **Descripción del contenido:** detalle de las consultas realizadas en los Centros de Acceso a la Justicia que cuentan con sistema de gestión informático correspondientes al semestre 9 del año AAAA. Semestre 9: Toma valores 1 y 2 (1 para referenciar el primer semestre del año y 2 para el segundo semestre del año).
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
