@@ -25,11 +25,11 @@ Características
 Recursos disponibles
 --------------------
 
-### Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ- AAAA semestre
+### Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ- AAAA semestre 9
 
--   **Nombre del archivo:** consultas-centros-acceso-justicia-AAAA-semetre.csv
+-   **Nombre del archivo:** consultas-centros-acceso-justicia-AAAA-semetre-9.csv
 
--   **Descripción del contenido:** detalle de las consultas realizadas en los Centros de Acceso a la Justicia que cuentan con sistema de gestión informático
+-   **Descripción del contenido:** detalle de las consultas realizadas en los Centros de Acceso a la Justicia que cuentan con sistema de gestión informático correspondientes al semestre 9 del año AAAA.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
