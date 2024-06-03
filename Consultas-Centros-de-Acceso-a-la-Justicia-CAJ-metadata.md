@@ -12,11 +12,11 @@ Características
 
 -   **Tags o Etiquetas:** CAJ, acceso a justicia, acceso a la justicia, asesoramiento jurídico, casas de justicia, justicia, vulnerables, consultas
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia
+-   **Organización:** Ministerio de Justicia. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Promoción y Fortalecimiento para el Acceso a la Justicia
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia
+-   **Autor:** Ministerio de Justicia. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Promoción y Fortalecimiento para el Acceso a la Justicia
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Acceso a la Justicia
+-   **Responsable:** Ministerio de Justicia. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Promoción y Fortalecimiento para el Acceso a la Justicia
 
 -   **Grupo:** Acceso a Justicia
 
@@ -107,4 +107,4 @@ La base de datos contiene información de las consultas en los CAJ que tienen cu
 
 El recorte de la información se realiza en base a la fecha de carga de la “consulta” en el CAJ. Una consulta en un CAJ puede derivar en más de una intervención. De la misma forma, cada intervención puede generar varias gestiones. No obstante, es posible que en el período que se presenta haya más gestiones e intervenciones que las publicadas, debido a que corresponden a “consultas” con carga anterior al período en cuestión.
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 482 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2017-482-APN-MJ.pdf), del 26 de Junio de 2017.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 482 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2017-482-APN-MJ.pdf), del 26 de Junio de 2017.
